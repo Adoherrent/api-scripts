@@ -1,0 +1,45 @@
+open
+
+32+ Methods to see all the methods in the api
+
+perl setup.pl
+
+api
+
+http://ip/api.php?key=key12345&host=&port=&time=&method=&size=
+
+32+ METHODS
+UDP
+NTP
+LDAP
+DNS
+FLOOD
+SSYN
+TCP
+SYN
+SUDP
+SMASH
+VOX
+RIP
+PLAIN
+ACK
+CHARGEN
+SUPER
+GAME
+STORM
+UDP2
+NTP2
+DNS-2
+SNMP
+BYPASS
+HOTSPOT
+HTTP
+KILL-WIFI
+UDP-NULL
+VPN-TCP
+VPN-Killer
+VPN-Null
+NFOBypass-Weak
+OVHBypass-Weak
+
+API Script Made By @SuspectOVH
